@@ -1,8 +1,0 @@
-GitHub flow:
-- git pull (obtain updated codes)
-- perform changes...
-- git add filename or git add -A or git add . (git add -A or git add . will add all of the files within the folder)
-- git commit -m "message here"
-- git status (checks the status)
-- esc :wq to quit vi editor
-- git push
